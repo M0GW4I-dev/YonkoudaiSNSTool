@@ -1,8 +1,9 @@
-### YonkoudaiSNSTool
+## YonkoudaiSNSTool
 
-## Example
+このツールを用いた損害について私は責任を持ちません
 
->|python3|
+### Example
+```python3
 #Example.py
 
 import req
@@ -16,11 +17,10 @@ def main():
 
 if __name__=='__main__':
 	main()
-||<
-
+```
 * Execution
->||
+```
 %python3 Example.py
-||<
+```
 
 	

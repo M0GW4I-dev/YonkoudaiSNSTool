@@ -15,7 +15,7 @@ Content-Disposition: form-data; name="fullname"\x0d\x0a\
 ------WebKitFormBoundaryqnTEz6EqvVEBwVd4\x0d\x0a\
 Content-Disposition: form-data; name="email"\x0d\x0a\
 \x0d\x0a\
-'''+email_main+'''@yahoo.co.jp\x0d\x0a\
+'''+email_main+'''@test.co.jp\x0d\x0a\
 ------WebKitFormBoundaryqnTEz6EqvVEBwVd4\x0d\x0a\
 Content-Disposition: form-data; name="bio"\x0d\x0a\
 \x0d\x0a\
